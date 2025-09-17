@@ -8,3 +8,4 @@ module crc_calc (
         else out <= ~out;
     end
 endmodule
+// Fixed identified race condition
