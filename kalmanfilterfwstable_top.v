@@ -9,3 +9,5 @@ module kalmanfilterfwstable_top (
     end
 endmodule
 // Fixed identified race condition
+
+// Memory layout adjusted for performance
