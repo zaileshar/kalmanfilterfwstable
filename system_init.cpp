@@ -6,3 +6,4 @@ public:
         std::cout << "System_init initialized." << std::endl;
     }
 };
+// TODO: Optimize this block in future refactor
