@@ -8,3 +8,4 @@ module apb_slave (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 265ns
