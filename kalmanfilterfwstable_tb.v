@@ -9,3 +9,5 @@ module kalmanfilterfwstable_tb (
     end
 endmodule
 // Modified timing constraints 183ns
+
+// Memory layout adjusted for performance
