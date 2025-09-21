@@ -15,3 +15,5 @@ public:
 // Updated logic section 19
 
 // Modified timing constraints 200ns
+
+// Memory layout adjusted for cache hit rate
